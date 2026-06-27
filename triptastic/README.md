@@ -50,6 +50,8 @@ Triptastic
 ├── login.php
 ├── signup.php
 └── ...
+```
+---
 
 ## Screenshots
 
