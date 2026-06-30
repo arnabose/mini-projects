@@ -58,17 +58,17 @@ Triptastic
 ### Home Page
 ![Home Page](screenshots/user_home_page.png)
 
-### ➕ Admin - Add Tour Package
+### Admin - Add Tour Package
 ![Admin Add Tour Package](screenshots/admin_add_page.png)
 
-### ✏️ Admin - Update Tour Package
+### Admin - Update Tour Package
 ![Admin Update Tour Package](screenshots/admin_update.png)
 
-### 📋 Admin - Manage Bookings
+### Admin - Manage Bookings
 ![Admin Manage Bookings](screenshots/admin_all_bookings.png)
 
-### ❤️ User - Wishlist
+### User - Wishlist
 ![User Wishlist](screenshots/user_wishlist.png)
 
-### 🎫 User - Booking Details
+### User - Booking Details
 ![User Booking Details](screenshots/user_booking.png)
